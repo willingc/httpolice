@@ -11,7 +11,7 @@ dependencies:
 - lxml >= 3.6
 - dominate >= 2.2
 - defusedxml >= 0.5
+- httpolice
 - pip:
-  - httpolice
   - brotlipy >= 0.5
   - bitstring >= 3.1
