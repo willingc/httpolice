@@ -9,9 +9,9 @@ dependencies:
 - singledispatch >= 3.4
 - six >= 1.10
 - lxml >= 3.6
-- bitstring >= 3.1
 - dominate >= 2.2
 - defusedxml >= 0.5
-- brotlipy >= 0.5
 - pip:
   - httpolice
+  - brotlipy >= 0.5
+  - bitstring >= 3.1
