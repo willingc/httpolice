@@ -1,0 +1,6 @@
+name: httpolice 
+type: sphinx
+requirements_file: doc/doc_requirements.txt
+python:
+  version: 2 
+  setup_py_install: true
