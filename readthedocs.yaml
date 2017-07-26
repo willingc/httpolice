@@ -1,6 +1,6 @@
 name: httpolice 
 type: sphinx
-requirements_file: tools/requirements.txt
+requirements_file: doc/docs_requirements.txt
 python:
-  version: 2 
-  setup_py_install: true 
+  version: 3
+  setup_py_install: false
